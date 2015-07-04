@@ -2,10 +2,8 @@
 
 # Install Cask packages
 brew-cask install \
-    chromium \
+    google-chrome \
     iterm2 \
-    python \
-    git \
     vox \
     vox-preferences-pane \
     box-sync \
